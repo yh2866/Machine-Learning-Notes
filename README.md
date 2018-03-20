@@ -1,3 +1,3 @@
 # Machine-Learning-Notes
 
-![MethodsGraph](img/MethodsGraph.jpg)
+![MethodsGraph](images/MethodsGraph.jpg)
